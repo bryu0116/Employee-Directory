@@ -2,6 +2,7 @@
 
 ## Description
 Employee Directory is React app to view entire employee directory at once and allows audience to view employees' information.
+- [DeployApp](https://bryu0116.github.io/Employee-Directory/)
 
 ## Table of Contents
 - [Description](#description)
